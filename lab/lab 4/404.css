@@ -1,0 +1,77 @@
+aside h2 {
+	
+	display: inline;
+	font-family: sans-serif;
+	font-size: 60px;
+	color: blue;
+	position: relative;
+	top: 250px;
+	left: 480px;
+}
+
+.vl {
+	
+	border-left: 1px solid black;
+	padding-left: 5px;
+}
+
+.buttons {
+	
+	margin-left: 570px;
+}
+
+.container-fluid {
+	
+	margin-left: 150px;
+	width: 80%;
+	min-height: 5vh;
+}
+
+.side h1 {
+	color: black;
+	font-size: 50px;
+	font-family: 'Fantasy', 'Arial', 'sans-serif', 'serif';
+	letter-spacing: 1px;
+	display: inline;
+}
+
+.center {
+	position: absolute;
+	left: 450px;
+	top: 255px;
+}
+
+.url {
+	
+	display: block;
+	margin-top: 2px;
+	font-family: sans-serif;
+	color: rgb(140, 135, 135);
+	column-gap: 2000px;
+}
+
+.Btn {
+	
+	border: solid 6px rgb(31, 31, 159);
+	border-radius: 6px;
+	padding: 5px;
+	background-color: rgb(31, 31, 159);
+	color: white;
+	text-decoration: none;
+	position: relative;
+	top: 300px;
+	left: 30px;
+}
+
+.Btn1 {
+	
+	border: solid 6px lightgray;
+	border-radius: 6px;
+	padding: 5px;
+	background-color: lightgray;
+	color: blue;
+	text-decoration: none;
+	position: relative;
+	top: 300px;
+	left: 30px;
+}
