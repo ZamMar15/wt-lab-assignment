@@ -5,6 +5,8 @@ LAB WORK
 
 [lab 1](https://github.com/ZamMar15/wt-lab-assignment/tree/main/lab/LAB1)
 [lab 2](https://github.com/ZamMar15/wt-lab-assignment/tree/main/lab/lab%202)
+[lab 3](https://github.com/ZamMar15/wt-lab-assignment/tree/master/lab/lab%203)
+
 
 Assignment 
 
